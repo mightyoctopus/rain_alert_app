@@ -1,8 +1,0 @@
-{
-  "access_token": "9sgk5gA6SEwb7c_fm0jOqY5KcxgN8stqAAAAAQoNH5cAAAGWtPJoxyrXsvB0zxAC",
-  "token_type": "bearer",
-  "refresh_token": "jq1POACyHKvwOuMXkpkI2DLkuk0VqvzRAAAAAgoNIBsAAAGWsIoI7SrXsvB0zxAC",
-  "expires_in": 21599,
-  "scope": "profile_image talk_message profile_nickname friends",
-  "refresh_token_expires_in": 5183999
-}
